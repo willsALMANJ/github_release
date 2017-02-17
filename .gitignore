@@ -1,0 +1,5 @@
+github.token
+github_user.txt
+github_repo.txt
+__pycache__
+*.sw?
